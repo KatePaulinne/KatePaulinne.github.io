@@ -59,11 +59,16 @@ footer{
   content: none;
 }
 
-.navbar-inner{
+.navbar-inverse{
 	background:#2B03C9;
+ 
 }
 
-/*.navbar-inverse .navbar-toggle {
+.navbar-inverse .navbar-nav>li>a{
+	color:#ffffff;
+}
+
+.navbar-inverse .navbar-toggle {
 	color: white;
 	font-weight: bold;
 	border-color: white;
@@ -77,7 +82,7 @@ footer{
 }
 .navbar-inverse .navbar-toggle:hover .glyphicon {
 	color: #333;
-}*/
+}
 
 .tab-pane{
 	border-left:1px solid #ddd;

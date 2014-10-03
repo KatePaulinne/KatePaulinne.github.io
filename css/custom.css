@@ -4,6 +4,10 @@ body{
 	padding-top:70px;
 }
 
+img{
+	size:50%;
+}
+
 .glyphicon{
 	/*color: #cdae51;*/
 	color:#3F2B22;

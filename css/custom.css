@@ -11,7 +11,7 @@ img{
 .intro{
 	background:url(../backgroundtop.png) no-repeat bottom center scroll;
 	background-size:100%;
-	min-height: 1000px;
+	min-height: 700px;
 }
 
 .glyphicon{

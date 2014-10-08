@@ -8,6 +8,10 @@ img{
 	size:50%;
 }
 
+.intro{
+	background:url(../backgroundtop.png) no-repeat bottom center scroll;
+}
+
 .glyphicon{
 	/*color: #cdae51;*/
 	color:#3F2B22;

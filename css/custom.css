@@ -10,6 +10,10 @@ img{
 
 .intro{
 	background:url(../backgroundtop.png) no-repeat bottom center scroll;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 .glyphicon{

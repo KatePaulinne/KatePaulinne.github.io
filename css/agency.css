@@ -389,14 +389,21 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
-    top: 50%;
+    /*top: 50%;*/
+    top:18%;
     width: 100%;
     height: 20px;
     margin-top: -12px;
-    text-align: center;
+    margin-left:20px;
+    text-align: left;
     font-size: 20px;
     color: #fff;
 }
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content p{
+    font-size:20px;
+    color:black;
+} 
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
